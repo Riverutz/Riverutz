@@ -40,8 +40,8 @@ Built with POM and data-driven testing via JSON. Actively maintained and extende
 
 | Credential | Issuer | Year |
 |---|---|---|
-| ISTQB® Certified Tester, Foundation Level | iSQI Group | 2023 |
 | Automation Testing with Selenium & Java — 110 hrs | IT School | 2024 |
+| ISTQB® Certified Tester, Foundation Level | iSQI Group | 2023 |
 | Introduction to Software Testing | Academia Testarii | 2023 |
 
 ---
