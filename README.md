@@ -28,7 +28,7 @@ CI/CD via GitHub Actions · Allure reporting with screenshots on failure · Para
 
 ---
 
-### [DemoQAAutomation](https://github.com/Riverutz/DemoQAAutomation)
+### [demoqa-ui-automation](https://github.com/Riverutz/DemoQAAutomation)
 Structured automation suite for [demoqa.com](https://demoqa.com) covering web tables, forms, alerts, frames, nested frames, and browser windows.
 Built with POM and data-driven testing via JSON. Actively maintained and extended.
 
