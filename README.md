@@ -1,4 +1,4 @@
-# Daniel Vlasceanu — Junior Software Tester
+# Daniel-Alexandru Vlasceanu — Junior Software Tester
 
 Junior QA Engineer focused on building clean, maintainable automation frameworks with Java and Selenium. ISTQB certified with hands-on experience testing live e-commerce applications end-to-end.
 
