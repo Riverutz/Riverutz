@@ -35,7 +35,7 @@ Built with POM and data-driven testing via JSON. Actively maintained and extende
 > `Java` `Selenium` `TestNG` `Maven` `Log4j2` `Lombok` `Jackson`
 
 ### [demoqa-api-automation](https://github.com/Riverutz/demoqa-api-automation)
-REST Assured API test automation framework for DemoQA Bookstore — Java 17, TestNG, Jackson
+REST Assured API test automation framework for DemoQA Bookstore — Java 17, TestNG, Jackson, RestAssured, Rest API
 
 > `Java` `Selenium` `TestNG` `Maven` `Lombok` `Jackson` `RestAssured` `Rest API`
 ---
